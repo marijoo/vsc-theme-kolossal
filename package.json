@@ -1,0 +1,21 @@
+{
+    "name": "kolossal",
+    "displayName": "kolossal",
+    "description": "kolossal.io Color Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "kolossal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kolossal-color-theme.json"
+            }
+        ]
+    }
+}
